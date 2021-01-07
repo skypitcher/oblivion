@@ -1,0 +1,16 @@
+[package]
+name = "oblivion"
+version = "0.1.0"
+authors = ["skypitcher"]
+edition = "2018"
+
+[dependencies]
+num = "0.3"
+num-derive = "0.3"
+num-traits = "0.2"
+chrono = "0.4"
+bytes = "0.6"
+byteorder = "1.3"
+aes = "0.3"
+log = "0.4"
+pretty_env_logger = "0.4"
